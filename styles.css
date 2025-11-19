@@ -1,0 +1,22 @@
+.bg-miColor {
+  background-color: #031121;
+  color: white;
+  border: 5px solid #00ffff;
+}
+.botones {
+  background-color: #008b8b;
+}
+
+.bg-fondo {
+  background-color: #0a0f2e;
+}
+
+.btn-icon {
+  font-size: 2.2rem;
+  color: #0d6efd;
+  transition: all 0.3s ease;
+}
+.btn-icon:hover {
+  transform: scale(1.15);
+  color: #0b5ed7;
+}
